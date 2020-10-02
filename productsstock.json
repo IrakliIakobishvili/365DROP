@@ -1,0 +1,12 @@
+[{
+		"id": 133963,
+		"stocks": [
+			{
+				"quantity": 8232,
+				"minHandlingDays": 1,
+				"maxHandlingDays": 2
+			}
+		],
+		"sku": "S2204430"
+	}
+]
