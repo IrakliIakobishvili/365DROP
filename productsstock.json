@@ -1,12 +1,23 @@
 [{
-		"id": 133963,
-		"stocks": [
-			{
-				"quantity": 8232,
-				"minHandlingDays": 1,
-				"maxHandlingDays": 2
-			}
-		],
-		"sku": "S2204430"
-	}
+	"id": 133963,
+	"stocks": [
+		{
+			"quantity": 8232,
+			"minHandlingDays": 1,
+			"maxHandlingDays": 2
+		}
+	],
+	"sku": "S2204430"
+},
+ {
+	"id": 1111,
+	"stocks": [
+		{
+			"quantity": 11,
+			"minHandlingDays": 1,
+			"maxHandlingDays": 2
+		}
+	],
+	"sku": "S11111111"
+}
 ]
