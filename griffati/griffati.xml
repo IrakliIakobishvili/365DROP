@@ -2,7 +2,7 @@
 
 <Products>
 	<Product>
-		<Product_id>3333</Product_id>
+		<Product_id>8888</Product_id>
 		<Product_Model><![CDATA[WH4-P2735]]></Product_Model>
 		<Product_MainCategory>Men</Product_MainCategory>
 		<Product_SubCategory>Jeans</Product_SubCategory>
@@ -18,7 +18,7 @@
 		<Product_Quantity>434343</Product_Quantity>
 		<Product_Sizes>
 			<Model>
-				<id>3333_M</id>
+				<id>8888_M</id>
 				<parent_id>88888</parent_id>
 				<size>M</size>
 				<availability>52244</availability>
@@ -32,7 +32,7 @@
 	</Product>
 	
 	<Product>
-		<Product_id>44444</Product_id>
+		<Product_id>1111</Product_id>
 		<Product_Model><![CDATA[WH4-P2735]]></Product_Model>
 		<Product_MainCategory>Men</Product_MainCategory>
 		<Product_SubCategory>Jeans</Product_SubCategory>
@@ -48,15 +48,15 @@
 		<Product_Quantity>44</Product_Quantity>
 		<Product_Sizes>
 			<Model>
-				<id>44444_M</id>
-				<parent_id>44444</parent_id>
+				<id>1111_M</id>
+				<parent_id>1111</parent_id>
 				<size>M</size>
 				<availability>52244</availability>
 				<ean></ean>
 			</Model>
 			<Model>
-				<id>44444_L</id>
-				<parent_id>44444</parent_id>
+				<id>1111_L</id>
+				<parent_id>1111</parent_id>
 				<size>L</size>
 				<availability>22</availability>
 				<ean></ean>
