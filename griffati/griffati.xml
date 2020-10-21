@@ -119,13 +119,13 @@
 		<Product_Image_1>http://static.griffati.com/images/large1/WH4-P2735_Blue.jpg</Product_Image_1>
  		<Product_Image_2>http://static.griffati.com/images/large2/WH4-P2735_Blue.jpg</Product_Image_2>
  		<Product_Image_3>http://static.griffati.com/images/large3/WH4-P2735_Blue.jpg</Product_Image_3>
-		<Product_Quantity>66</Product_Quantity>
+		<Product_Quantity>1111</Product_Quantity>
 		<Product_Sizes>
 			<Model>
 				<id>445566_M</id>
 				<parent_id>445566</parent_id>
 				<size>M</size>
-				<availability>8874</availability>
+				<availability>5656</availability>
 				<ean>DFT8HF</ean>
 			</Model>
 			<Model>
