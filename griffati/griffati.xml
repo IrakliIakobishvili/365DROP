@@ -24,6 +24,13 @@
 				<availability>0</availability>
 				<ean>DFT8HF</ean>
 			</Model>
+			<Model>
+				<id>8888_L</id>
+				<parent_id>88888</parent_id>
+				<size>M</size>
+				<availability>333</availability>
+				<ean>DFT8HF</ean>
+			</Model>
 		</Product_Sizes>
 		<Product_Weight>0.500</Product_Weight>
 		<Product_Colour><![CDATA[blue]]></Product_Colour>
